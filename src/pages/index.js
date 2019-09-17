@@ -51,7 +51,7 @@ const IndexPage = () => (
               </p>
               <ul className="actions">
                 <li>
-                  <Link className="button" to="/generic">
+                  <Link className="button" to="/howthingswork">
                     Learn more
                   </Link>
                 </li>
@@ -73,7 +73,7 @@ const IndexPage = () => (
               </p>
               <ul className="actions">
                 <li>
-                  <Link className="button" to="/generic">
+                  <Link className="button" to="/howthingswork">
                     Learn more
                   </Link>
                 </li>
@@ -95,7 +95,7 @@ const IndexPage = () => (
               </p>
               <ul className="actions">
                 <li>
-                  <Link className="button" to="/generic">
+                  <Link className="button" to="/howthingswork">
                     Learn more
                   </Link>
                 </li>
@@ -166,7 +166,7 @@ const IndexPage = () => (
           </div>
           <ul className="actions">
             <li>
-              <Link className="button" to="/generic">
+              <Link className="button" to="/howthingswork">
                 Learn more
               </Link>
             </li>
@@ -223,7 +223,7 @@ const IndexPage = () => (
                 </li>
                 <li>
                   <h3>Email</h3>
-                  <a href="/#">user@untitled.tld</a>
+                  <a href="/#">kevinsparling@gmail.com</a>
                 </li>
                 <li>
                   <h3>Phone</h3>

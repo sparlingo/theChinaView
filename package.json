@@ -1,7 +1,7 @@
 {
   "name": "theMoneyView",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
+  "description": "Gatsby.js web site laying out the Money View of economics",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sparlingo/theMoneyView.git"
@@ -33,7 +33,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1",
     "prettier": "^1.17.0",
     "rimraf": "^2.6.3"
   },

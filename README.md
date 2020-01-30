@@ -1,36 +1,14 @@
-# gatsby-starter-hyperspace
+# The Money View
 
-Gatsby.js V2 starter template based on Hyperspace by HTML5 UP
+Not left or right, right or wrong. Correct or incorrect. Lazy or thoughtful. When talking economics, that's the bias - 
+lazy vs thoughtful. I'm trying my best here to lay out the views of a very smart branch of economists who do a pretty
+bad job of messagning.
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+
 
 Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-hyperspace/)
 
-## Screenshot
 
-![Screenshot](./src/assets/img/hyperspace.jpg)
-
-## Install
-
-Make sure that you have the Gatsby CLI program installed:
-
-```sh
-npm install --global gatsby-cli
-```
-
-And run from your CLI:
-
-```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-hyperspace
-```
-
-Then you can run it by:
-
-```sh
-cd gatsby-example-site
-npm install
-gatsby develop
-```
 
 ### Deploying using Github page
 
@@ -42,7 +20,7 @@ Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefi
 
 Suggestions and PRs are welcome!
 
-Please create issue or open PR request for contribution.
+Please use the form in the website to suggest a change
 
 ### License
 

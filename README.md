@@ -1,12 +1,6 @@
-# The Money View
+# The China View
 
-Not left or right, right or wrong. Correct or incorrect. Lazy or thoughtful. When talking economics, that's the bias - 
-lazy vs thoughtful. I'm trying my best here to lay out the views of a very smart branch of economists who do a pretty
-bad job of messagning.
-
-
-
-Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-hyperspace/)
+Not left or right, right or wrong. Correct or incorrect. Lazy or thoughtful. When talking China, that's the bias - lazy vs thoughtful. I'm trying my best here to lay out the views of a very smart branch of China watchers who do a pretty bad job of messaging.
 
 
 

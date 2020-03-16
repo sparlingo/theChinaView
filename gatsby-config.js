@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/gatsby-starter-hyperspace/`, // This path is subpath of your hosting https://domain/portfolio
   siteMetadata: {
-    title: 'the Money View',
+    title: 'the China View',
     author: 'Kevin Sparling'
   },
   plugins: [

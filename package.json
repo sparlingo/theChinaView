@@ -11,7 +11,7 @@
     "email": "kevinsparling@gmail.com"
   },
   "dependencies": {
-    "gatsby": "^2.4.3",
+    "gatsby": "^4.22.1",
     "gatsby-image": "^2.2.43",
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-offline": "^2.1.0",
